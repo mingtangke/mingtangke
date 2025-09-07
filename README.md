@@ -2,7 +2,7 @@
 - 👯 I am broadly interested in AI4DB. My current research focuses on Cloud-Edge-Device Collaborative Database.
 - 💬 I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: 2898391715@qq.com
-- 😄 I'm a big fan of Detective Conan.
+- 😄 I'm a loyal fan of Detective Conan and SpongeBob SquarePants..
 <!--
 **mingtangke/mingtangke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
